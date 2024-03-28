@@ -41,8 +41,8 @@ const PagesToRead = () => {
 
 
     return (
-        <div>
-            <h2>Pages To read</h2>
+        <div className="px-7 py-20 rounded-3xl bg-[#13131308]">
+            
             <BarChart
                 width={1170}
                 height={580}
