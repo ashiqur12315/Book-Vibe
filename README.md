@@ -7,3 +7,4 @@ Features of my website:
 - It's a responsive website.
 - Implemented local storage features.
 - It contains custom bar shape vizualization of data.
+- Added a filter function for the selected books
