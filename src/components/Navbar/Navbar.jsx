@@ -13,6 +13,10 @@ const Navbar = () => {
             isActive ? 'border-2 rounded-lg border-[#23BE0A] text-[#23BE0A] py-3 px-5 font-semibold' : ''} >Listed Books</NavLink></li>
         <li className="p-4"><NavLink to='/pages' className={({ isActive }) =>
              isActive ? 'border-2 rounded-lg border-[#23BE0A] text-[#23BE0A] py-3 px-5 font-semibold' : ''}>Pages to Read</NavLink></li>
+        <li className="p-4"><NavLink to='/about' className={({ isActive }) =>
+             isActive ? 'border-2 rounded-lg border-[#23BE0A] text-[#23BE0A] py-3 px-5 font-semibold' : ''}>Book Category</NavLink></li>
+        <li className="p-4"><NavLink to='/contact' className={({ isActive }) =>
+             isActive ? 'border-2 rounded-lg border-[#23BE0A] text-[#23BE0A] py-3 px-5 font-semibold' : ''}>Contact Us</NavLink></li>
     </>
 
 
