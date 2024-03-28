@@ -1,0 +1,146 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://i.ibb.co/pxSHFBp/kindpng-7318921.png",
+    "review": "The Great Gatsby, F. Scott Fitzgerald's third book, stands as the supreme achievement of his career. This exemplary novel of the Jazz Age has been acclaimed by generations of readers. The story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted gin was the national drink and sex the national obsession, it is an exquisitely crafted tale of America in the 1920s.This exemplary novel of the Jazz Age has been acclaimed by generations of readers.",
+    "totalPages": 180,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": [
+      "Classic",
+      "Romance"
+    ],
+    "publisher": "Scribner",
+    "yearOfPublishing": 1925
+  },
+  {
+    "bookId": 2,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://i.ibb.co/9Ycrgkh/kindpng-2193744-1.png",
+    "review": "To Kill a Mockingbird is a novel by the American author Harper Lee. It was published in June 1960 and became instantly successful. In the United States, it is widely read in high schools and middle schools. To Kill a Mockingbird has become a classic of modern American literature; a year after its release, it won the Pulitzer Prize. The plot and characters are loosely based on Lee's observations of her family, her neighbors and an event that occurred near her hometown of Monroeville, Alabama, in 1936, when she was ten.",
+    "totalPages": 281,
+    "rating": 4.8,
+    "category": "Fiction",
+    "tags": [
+      "Justice",
+      "Injustice"
+    ],
+    "publisher": "J. B. Lippincott & Co.",
+    "yearOfPublishing": 1960
+  },
+  {
+    "bookId": 3,
+    "bookName": "1984",
+    "author": "George Orwell",
+    "image": "https://i.ibb.co/Ybdj0wT/kindpng-2592315-1.png",
+    "review": "Nineteen Eighty-Four (also published as 1984) is a dystopian novel and cautionary tale by English writer George Orwell. It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime. Thematically, it centres on the consequences of totalitarianism, mass surveillance, and repressive regimentation of people and behaviours within society.[3][4] Orwell, a democratic socialist, modelled the authoritarian state in the novel on the Soviet Union in the era of Stalinism and Nazi Germany.",
+    "totalPages": 328,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": [
+      "Dystopian",
+      "Political"
+    ],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1949
+  },
+  {
+    "bookId": 4,
+    "bookName": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "https://i.ibb.co/RhvCFrB/kindpng-4945926-1.png",
+    "review": "Pride and Prejudice is the second novel by English author Jane Austen, published in 1813. A novel of manners, it follows the character development of Elizabeth Bennet, the protagonist of the book, who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness.Mr Bennet, owner of the Longbourn estate in Hertfordshire, has five daughters, but his property is entailed and can only be passed to a male heir. His wife also lacks an inheritance.",
+    "totalPages": 279,
+    "rating": 4.7,
+    "category": "Fiction",
+    "tags": [
+      "Romance",
+      "Satire"
+    ],
+    "publisher": "T. Egerton, Whitehall",
+    "yearOfPublishing": 1813
+  },
+  {
+    "bookId": 5,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://i.ibb.co/DKn4dxZ/kindpng-5624060-1.png",
+    "review": "The Catcher in the Rye is a novel by American author J. D. Salinger that was partially published in serial form in 1945–46 before being novelized in 1951. Originally intended for adults, it is often read by adolescents for its themes of angst and alienation, and as a critique of superficiality in society.[4][5] The novel also deals with themes of innocence, identity, belonging, loss, connection, sex, and depression. The main character, Holden Caulfield, has become an icon for teenage rebellion.[6] Caulfield, nearly of age.",
+    "totalPages": 224,
+    "rating": 4.4,
+    "category": "Fiction",
+    "tags": [
+      "Indian",
+      "Literature"
+    ],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 1951
+  },
+  {
+    "bookId": 6,
+    "bookName": "Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "image": "https://i.ibb.co/sWM1cNJ/kindpng-81724-1.png",
+    "review": "Harry Potter and the Philosopher's Stone (also known as Harry Potter and the Sorcerer's Stone in the United States) is a 2001 fantasy film directed by Chris Columbus and produced by David Heyman, from a screenplay by Steve Kloves, based on the 1997 novel of the same name by J. K. Rowling. It is the first instalment in the Harry Potter film series. The film stars Daniel Radcliffe as Harry Potter, with Rupert Grint as Ron Weasley, and Emma Watson as Hermione Granger. Its story follows Harry's first year at Hogwarts School.",
+    "totalPages": 320,
+    "rating": 4.9,
+    "category": "Fantasy",
+    "tags": [
+      "Magic",
+      "Adventure"
+    ],
+    "publisher": "Bloomsbury",
+    "yearOfPublishing": 1997
+  },
+  {
+    "bookId": 7,
+    "bookName": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "https://i.ibb.co/6P6MyMm/kindpng-4022054-1.png",
+    "review": "The Hobbit is a series of three epic high fantasy adventure films directed by Peter Jackson. The films are subtitled An Unexpected Journey (2012), The Desolation of Smaug (2013), and The Battle of the Five Armies (2014).[5] The films are based on the 1937 novel The Hobbit by J. R. R. Tolkien, with large portions of the trilogy inspired by the appendices to The Return of the King, which expand on the story told in The Hobbit, as well as new material and characters written especially for the films. Together they act as a prequel to Jackson's .",
+    "totalPages": 310,
+    "rating": 4.8,
+    "category": "Fantasy",
+    "tags": [
+      "Adventure",
+      "Quest"
+    ],
+    "publisher": "George Allen & Unwin",
+    "yearOfPublishing": 1937
+  },
+  {
+    "bookId": 8,
+    "bookName": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "image": "https://i.ibb.co/2tzbGbY/kindpng-1064993.png",
+    "review": "The Da Vinci Code is a 2006 mystery thriller film directed by Ron Howard, written by Akiva Goldsman, and based on Dan Brown's 2003 novel of the same name. The first in the Robert Langdon film series, the film stars Tom Hanks, Audrey Tautou, Ian McKellen, Alfred Molina, Jürgen Prochnow, Jean Reno and Paul Bettany. In the film, Robert Langdon, a professor of religious symbology from Harvard University, is the prime suspect in the grisly and unusual murder of Louvre curator Jacques Saunière. On the body, the police find a disconcerting cipher.",
+    "totalPages": 454,
+    "rating": 4.3,
+    "category": "Thriller",
+    "tags": [
+      "Mystery",
+      "Conspiracy"
+    ],
+    "publisher": "Doubleday",
+    "yearOfPublishing": 2003
+  },
+  {
+    "bookId": 9,
+    "bookName": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "image": "https://i.ibb.co/pxSHFBp/kindpng-7318921.png",
+    "review": "The Hunger Games is a series of young adult dystopian novels written by American author Suzanne Collins. The first three novels are part of a trilogy following teenage protagonist Katniss Everdeen, and the fourth book is a prequel set 64 years before the original.The novels in the trilogy are titled The Hunger Games (2008), Catching Fire (2009), and Mockingjay (2010). Each was adapted for film, establishing The Hunger Games film series, with the film adaptation of Mockingjay split into two feature-length motion pictures.",
+    "totalPages": 374,
+    "rating": 4.6,
+    "category": "Young Adult",
+    "tags": [
+      "Dystopian",
+      "Survival"
+    ],
+    "publisher": "Scholastic Press",
+    "yearOfPublishing": 2008
+  }
+]
